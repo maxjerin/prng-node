@@ -1,0 +1,14 @@
+{
+  "name": "prng-node",
+  "version": "1.0.0",
+  "description": "A nodejs barebone implementation of pseudorandom number generator (uses non-standard entropy)",
+  "main": "index.js",
+  "repository": "https://github.com/maxjerin/prng-node.git",
+  "author": "Jerin Mathew <maxjerin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "yargs": "^10.0.3"
+  }
+}
